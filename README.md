@@ -22,7 +22,7 @@
 <a href="https://twitter.com/mo_etahawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_etahawy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamedabedelrhman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedabedelrhman" height="30" width="40" /></a>
 <a href="https://fb.com/genius4444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="genius4444" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uca8wc7qz_3jijnouxlf3_kw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uca8wc7qz_3jijnouxlf3_kw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCa8WC7Qz_3jIjNOUXLf3_kw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uca8wc7qz_3jijnouxlf3_kw" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/24CgwFS7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/24CgwFS7" height="30" width="40" /></a>
 </p>
 
