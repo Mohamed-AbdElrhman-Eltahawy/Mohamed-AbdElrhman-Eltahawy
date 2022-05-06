@@ -32,6 +32,6 @@
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/motahawy0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="motahawy0" /></a></p><br><br>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-abdelrhman-eltahawy&show_icons=true&locale=en&layout=compact" alt="mohamed-abdelrhman-eltahawy" /></p>
+<p display="block" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-abdelrhman-eltahawy&show_icons=true&locale=en&layout=compact" alt="mohamed-abdelrhman-eltahawy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelrhman-eltahawy&show_icons=true&locale=en" alt="mohamed-abdelrhman-eltahawy" /></p>
